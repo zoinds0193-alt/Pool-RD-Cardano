@@ -1,8 +1,7 @@
-nombre: Wallet Pool RD Cardano
-abrebiatura: WPRDC
-Descripcion: La pool Wallet Pool RD Cardano es una pool que fomenta el staking como una forma de ahorro.
-Pledge: 8,000
-Cost: 320
-Margin: 2%
-homepage": "https://tinyurl.com/3pnx6cvp
-nonce": "123456789
+{
+  "name": "Wallet Pool RD Cardano",
+  "description": "La pool Wallet Pool RD Cardano es una pool que fomenta el staking como una forma de ahorro.",
+  "ticker": "WPRDC",
+  "homepage": "https://github.com/tu-usuario",
+  "nonce": "123456789"
+}
