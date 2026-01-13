@@ -4,3 +4,5 @@ Descripcion: La pool Wallet Pool RD Cardano es una pool que fomenta el staking c
 Pledge: 8,000
 Cost: 320
 Margin: 2%
+homepage": "https://tinyurl.com/3pnx6cvp
+nonce": "123456789
